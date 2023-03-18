@@ -1,6 +1,6 @@
 # Stochastic-Approach-to-Chemical-Systems
 ## Assignment 1:
-#### Deadline - 15/03/2023
+#### Deadline - 22/03/2023
 
 <p>Steps to upload your assignment:</p>
 <ul> <li>click on ‘fork’ in top right corner </li>
